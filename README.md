@@ -3,6 +3,10 @@ Cartography for Catalonia
 
 Cartography of Catalonia, at regional level.
 
+Available formats: kml, svg, csv, geojson.
+
+The zip file contains for the shapefile.
+
 Original source: https://vangdata.carto.com/tables/shapefiles_catalunya_comarcas/public 
 
 Footnote:
