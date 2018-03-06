@@ -3948,6 +3948,10 @@
             [11, 17]
         ]
     ],
+    "transform": {
+        "scale": [0.00016906432842195174, 0.00011962717413546158],
+        "translate": [0.164752, 40.523025]
+    },
     "objects": {
         "shapefiles_catalunya_comarcas": {
             "type": "GeometryCollection",
