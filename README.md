@@ -11,6 +11,15 @@ The zip file contains for the shapefile.
 Original source: https://vangdata.carto.com/tables/shapefiles_catalunya_comarcas/public 
 
 
+--
+### Related repositories and more cartography:
+
+[Utility to generate TopoJSON maps for Catalonia](https://github.com/gmarull/cat-topojson) and from [this webpage](http://teslabs.com/articles/topojson-catalonia/) two more files were added to this repository:
+  * cat-municipis.json (https://teslabs.com/content/posts/topojson-catalonia/example-2.html)
+  * cat-comarques.json (https://teslabs.com/content/posts/topojson-catalonia/example-1.html)
+
+
+
 Footnote:
 --
 
@@ -18,7 +27,3 @@ Footnote:
 
 
 
---
-### Related repositories:
-
-[Utility to generate TopoJSON maps for Catalonia](https://github.com/gmarull/cat-topojson)
