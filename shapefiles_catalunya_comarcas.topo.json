@@ -1,5 +1,9 @@
 {
     "type": "Topology",
+    "transform": {
+        "scale": [1, 1],
+        "translate": [0, 0]
+    },
     "arcs": [
         [
             [1266, 5975],
@@ -3948,10 +3952,6 @@
             [11, 17]
         ]
     ],
-    "transform": {
-        "scale": [0.00016906432842195174, 0.00011962717413546158],
-        "translate": [0.164752, 40.523025]
-    },
     "objects": {
         "shapefiles_catalunya_comarcas": {
             "type": "GeometryCollection",
